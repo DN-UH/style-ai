@@ -1,0 +1,1 @@
+export default function Page(){return <main style={{padding:40,fontFamily:'sans-serif'}}><h1>Style AI</h1><p>Deployable beta app.</p></main>}
