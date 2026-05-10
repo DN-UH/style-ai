@@ -1,0 +1,1 @@
+export default function StyleResult(){return <main><h1>Style Result</h1><p>Beta AI style profile preview.</p><ul><li>Best colors: navy, charcoal and olive.</li><li>Recommended image: quiet luxury founder.</li><li>Avoid loud neon graphics.</li></ul><p><a href='/saved-looks'>Saved looks</a></p></main>}
