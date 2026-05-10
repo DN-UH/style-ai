@@ -1,0 +1,1 @@
+export default function DailyFeed(){return <main><h1>Daily Style Feed</h1><p>Today: choose deep navy or charcoal for a calm authority look.</p><ul><li>Morning: clean grooming and simple watch.</li><li>Meeting: structured shirt and dark trousers.</li><li>Evening: minimal dark outfit with one premium detail.</li></ul><p><a href='/'>Home</a></p></main>}
