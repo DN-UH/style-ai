@@ -1,0 +1,1 @@
+export default function Pricing(){return <main><h1>Pricing</h1><p>Discover Free | Core 14.99 | Signature 29.99 | Black 79.99</p><a href='/'>Home</a></main>}
