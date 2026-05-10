@@ -1,0 +1,1 @@
+export default function SavedLooks(){return <main><h1>Saved Looks</h1><p>Your future AI-curated outfit collection will appear here.</p><ul><li>Founder casual</li><li>Business authority</li><li>Minimal evening</li><li>Weekend luxury</li></ul><p><a href='/'>Home</a></p></main>}
