@@ -1,0 +1,1 @@
+export default function Upload(){return <main><h1>Photo Upload</h1><p>Upload flow placeholder for the private beta.</p><ol><li>Choose a clear face or mirror selfie.</li><li>Select your style goal.</li><li>Receive AI style guidance.</li></ol><p><a href='/dashboard'>Go to dashboard</a></p></main>}
