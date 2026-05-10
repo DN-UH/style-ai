@@ -1,0 +1,1 @@
+export default function Questionnaire(){return <main><h1>Questionnaire</h1><p>Beta onboarding questions.</p><p><a href='/dashboard'>Continue</a></p></main>}
