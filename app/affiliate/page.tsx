@@ -1,0 +1,1 @@
+export default function Affiliate(){return <main><h1>Affiliate Program</h1><p>Earn recurring commission by sharing Style AI.</p><a href='/'>Home</a></main>}
